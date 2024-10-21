@@ -22,4 +22,4 @@ Svi korisnici moraju imati otvoren nalog, koji se sastoji od imena, prezimena, k
 
 ## Napomena
 
-Ovaj projekat je prvi timski projekat rađen u C jeziku bez ikakve modularizacije, te je kod neuredan i možda nije najbolje predstaviti ga kao primer kvaliteta rada u CV-u. Ipak, predstavlja korak ka razumevanju rada u timu i osnove upravljanja korisničkim sistemima.
+Ovaj projekat je prvi timski projekat rađen u C jeziku bez ikakve modularizacije, te je kod neuredan i možda nije najbolje predstaviti ga kao primer kvaliteta rada. Ipak, predstavlja korak ka razumevanju rada u timu i osnove upravljanja korisničkim sistemima.
